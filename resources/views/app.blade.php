@@ -82,7 +82,15 @@
 </div>
 <footer>
     <div class="row">
-        <div class="large-12 columns">
+        <div class="large-6 columns address">
+            <p>
+                Nordskens vänner<br>
+                Köpmangatan 7A<br>
+                93131 Skellefteå<br>
+                Org. nr: 894702-0106
+            </p>
+        </div>
+        <div class="large-6 columns">
             <ul class="inline-list right">
                 <li><a href="https://facebook.com/Nordsken" title=""><i class="fa fa-facebook-square fa-2x"></i></a></li>
                 <li><a href="https://twitter.com/Nordsken" title=""><i class="fa fa-twitter-square fa-2x"></i></a></li>

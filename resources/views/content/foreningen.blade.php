@@ -4,6 +4,7 @@
             <h2>Om föreningen</h2>
 
             <p>Nordskens Vänner är en ideell förening ansluten till Sveriges största ungdomsförbund, <a href="//www.sverok.se">Sverok</a>. Föreningen har cirka 5-600 medlemmar, främst från Skellefteå med omnejd.</p>
+
             <p>Vill du bli medlem och engagera dig? <a href="#kontakt">Kontakta oss</a> så får du mer information!</p>
         </div>
         <div class="large-4 columns">
