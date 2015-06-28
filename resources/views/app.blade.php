@@ -25,10 +25,11 @@
                 <h3></h3>
                 <hr>
                 <div class="row">
-                    <div class="large-8 columns large-centered">
-                        <ul class="button-group even-5">
+                    <div class="large-10 columns large-centered">
+                        <ul class="button-group even-6">
                             <li><a href="#top" class="button">Start</a></li>
                             <li><a href="#foreningen" class="button">Föreningen</a></li>
+                            <li><a href="#uthyrning" class="button">Uthyrning</a></li>
                             <li><a href="#styrelse" class="button">Styrelse</a></li>
                             <li><a href="#stadgar" class="button">Stadgar</a></li>
                             <li><a href="#kontakt" class="button">Kontakt</a></li>
@@ -57,6 +58,8 @@
 </section>
 
 @include('content.foreningen')
+
+@include('content.uthyrning')
 
 @include('content.styrelsen')
 
