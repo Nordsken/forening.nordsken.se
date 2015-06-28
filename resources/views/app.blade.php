@@ -52,7 +52,7 @@
         </div>
         <div class="large-3 columns about-box">
             <div style="background-color: white">
-                <img src="/images/header.png">
+                <img src="/images/nordsken.png">
             </div>
         </div>
     </div>
