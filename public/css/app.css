@@ -7691,7 +7691,6 @@ footer p, footer a {
 .hero {
   padding-top: 3.125rem;
   padding-bottom: 50px;
-  background-image: url("../images/banner.jpg");
   background-size: cover;
   box-shadow: inset 0px 0px 0 2000px rgba(0, 0, 0, 0.2); }
 
