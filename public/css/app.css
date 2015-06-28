@@ -7689,6 +7689,7 @@ footer p, footer a {
   font-size: 14px; }
 
 .hero {
+  padding-top: 3.125rem;
   padding-bottom: 50px;
   background-image: url("../images/banner.jpg");
   background-size: cover;
@@ -7745,6 +7746,10 @@ footer p, footer a {
 
 .radius.right.button:hover {
   background-color: rgba(0, 0, 0, 0.1); }
+
+.logo {
+  text-align: center;
+  padding-bottom: 1.25rem; }
 
 .address {
   color: #FFFFFF; }

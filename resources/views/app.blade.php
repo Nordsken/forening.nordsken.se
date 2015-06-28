@@ -20,9 +20,10 @@
     <div class="row">
         <div class="large-12 columns">
             <div class="main-wrapper">
-                <h1>Nordskens Vänner</h1>
+                <div class="logo">
+                    <img src="/images/nv_logo_white.png">
+                </div>
 
-                <h3></h3>
                 <hr>
                 <div class="row">
                     <div class="large-10 columns large-centered">
