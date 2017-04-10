@@ -20,19 +20,6 @@
 
     <div class="row">
         <div class="large-8 columns about-content">
-            <h4>Julia Bergstedt <small>Vice ordförande</small></h4>
-            <span class="contact">
-                <i class="fa fa-envelope"></i> <a href="mailto:julia@nordsken.se">julia@nordsken.se</a>
-            </span>
-        </div>
-        <div class="large-4 columns">
-            <ul class="small-block-grid-2">
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="large-8 columns about-content">
             <h4>Johan Linder <small>Kassör</small></h4>
             <span class="contact">
                 <i class="fa fa-envelope"></i> <a href="mailto:johan@nordsken.se">johan@nordsken.se</a><br>
@@ -59,9 +46,22 @@
 
     <div class="row">
         <div class="large-8 columns about-content">
-            <h4>Dennis Fredriksson <small>Ledamot</small></h4>
+            <h4>Linn-Marie Edlund <small>Ledamot</small></h4>
             <span class="contact">
-                <i class="fa fa-envelope"></i> <a href="mailto:dennis@nordsken.se">dennis@nordsken.se</a>
+                <i class="fa fa-envelope"></i> <a href="mailto:linnmarie.edlund@nordsken.se">linnmarie.edlund@nordsken.se</a>
+            </span>
+        </div>
+        <div class="large-4 columns">
+            <ul class="small-block-grid-2">
+            </ul>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="large-8 columns about-content">
+            <h4>Olov Berglund <small>Ledamot</small></h4>
+            <span class="contact">
+                <i class="fa fa-envelope"></i> <a href="mailto:olov.berglund@nordsken.se">olov.berglund@nordsken.se</a>
             </span>
         </div>
         <div class="large-4 columns">
